@@ -1,0 +1,54 @@
+[
+    {
+        "name":"wiltzy Jackson",
+        "Department":"Technology",
+        "Gender":"Male",
+        "ID":250900042,
+        "intake":2020
+
+    },
+
+
+    {
+        "name":"Coady brown",
+        "Department":"Anti-Money laundering",
+        "Gender":"Male",
+        "ID":250900321,
+        "intake":2021
+
+    },
+
+
+
+    {
+        "name":"Deadly venom",
+        "Department":"Anti-narcotics",
+        "Gender":"Male",
+        "ID":2509048990,
+        "intake":2022
+
+    },
+
+
+    {
+        "name":"Sniper cobra",
+        "Department":"Terminator",
+        "Gender":"Male",
+        "ID":"Confidential",
+        "intake":"undisclosed"
+
+
+    },
+
+
+    {
+        "name":"wilson Max",
+        "Department":"Serial_killer",
+        "Gender":"Male",
+        "reg_No":"unknown",
+        "intake":"Contract Terminated"
+
+    }
+]
+
+

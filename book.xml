@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTf-8"?>
+  <bookstore>
+
+    <book category="Economics">
+    <title lang="en"> English</title>
+    <author> James Bond </author>
+    <year> 2005 </year>
+    <Description> jekyl Island </Description>
+    <country> United State of America </country>
+    <price> $30.0 </price>
+
+    </book>
+
+
+    
+
+    <book category="  Politics">
+    <title lang="en"> English</title>
+    <author> Miatus James </author>
+    <year> 1940 </year>
+    <Description> A dying soverign lion </Description>
+    <country> Kenya </country>
+    <price> $50.0 </price>
+
+
+    </book>
+  
+
+
+
+
+    <book category="Programming">
+    <title lang="en"> C language</title>
+    <author> coady Brown </author>
+    <year> 1970 </year>
+    <Description> A beginner Guide in C programming </Description>
+    <country> United State of America </country>
+    <price> $150.0 </price>
+    </book>
+
+
+    <book category="Climate Change">
+    <title lang="en"> Global disaster </title>
+    <author> jeffrey Epinstein </author>
+    <year> 1985 </year>
+    <Description> Co2 destroying US ALL</Description>
+    <country> Isarel</country>
+    <price> $1500 </price>
+    </book>
+
+
+
+    
+    <book category="AI">
+    <title lang="en"> The danger of AI</title>
+    <author> Geoffrey Godwin</author>
+    <year> 1954 </year>
+    
+    <Description> The loosing of human Race to AI </Description>
+    <country> Denmark </country>
+    <price> $500 </price>
+    </book>
+
+
+  
+  
+  </bookstore>
+
+
+
+  

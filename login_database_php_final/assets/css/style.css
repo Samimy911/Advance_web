@@ -1,0 +1,5 @@
+:root{ --bg:#0f1724; --card:#0b1220; --text:#e6eef6; --accent:#2dd4bf; --muted:#9aa4b2;}
+body{background:var(--bg);color:var(--text);font-family:Inter,system-ui,Arial;margin:0;}
+.card{background:var(--card);padding:12px;border-radius:10px;}
+.sidebar{width:220px;position:fixed;top:0;left:0;height:100vh;padding:16px;}
+.main{margin-left:240px;padding:20px;}

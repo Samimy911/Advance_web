@@ -1,0 +1,47 @@
+[
+ {
+     "name": "Test Project",
+     "version": "1.0.0",
+     "description": "A test project to compare JSON snippets",
+     "main": "index.js"
+
+ },
+
+
+ {
+
+    "name":"Jackson Daniels",
+    "age":14,
+    "School":"Maverick",
+    "year":2023
+
+
+
+
+ },
+
+
+
+ {
+     "name":"Philip Jobnes",
+     "mode":"Contractor",
+     "ID":250900321,
+     "Department":"Death SQUAD"
+
+
+ },
+
+
+ {
+    "inc":"NNPC",
+    "Mode":2023,
+    "Exploratiopn":"OIL and GAS",
+    "Headquarters":"Lagos"
+
+ }
+
+
+
+
+
+]

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <typesofhotel> 
+   
+     <hotelname>Marriot</hotelname>
+      <hotel category="5 star"> 
+        <rooms>
+         <room_101>Bridal suite</room_101>
+         <price>$300 per-night</price>
+         <description> Executive service room with a bedroom and a sitting room with dinner,table tennis </description>
+         <room_200> Non-smoking rooms</room_200>
+         <price>$400 per-night</price>
+         <description> Executive service room with a bedroom and a sitting room with dinner,table tennis but smoke proof </description>
+
+         <room_499> family room</room_499>
+         <price>$700 per-night</price>
+         <description> Executive service room with five bedroom and a sitting room with dinner,table tennis and bar and also smoke proof and noise proof</description>
+         <room_998> VIP rooms</room_998>
+         <price>$1000 per-night</price>
+         <description> Having all the features needed and fully conservatives  </description>
+        </rooms>
+        
+
+      <hotelname>Serina-hotel</hotelname>
+      <hotel category="5 star"> </hotel>
+        <rooms>
+         <room_105>Bridal suite</room_105>
+         <price>$247 per-night</price>
+         <description> Executive service room with a bedroom and a sitting room with dinnertable tennis </description>
+         <room_2002> Non-smoking rooms</room_2002>
+         <price>365 per-night</price>
+         <description> Executive service room with a bedroom and a sitting room with dinnertable tennis but smoke proof </description>
+
+         <room_491> family room</room_491>
+         <price>$643 per-night</price>
+         <description> Executive service room with five bedroom and a sitting room with dinnertable tennis and bar and also smoke proof and noise proof</description>
+         <room_995> VIP rooms</room_995>
+         <price>$980 per-night</price>
+         <description> Having all the features needed and fully conservatives  </description>
+         <website>https://www.serenahotels.com/kigali</website>
+
+
+        </rooms> 
+
+
+     <hotelname>raddison</hotelname>
+      <hotel category="5 star"> </hotel>
+        <rooms>
+         <room_101>Bridal suite</room_101>
+         <price>$250 per-night</price>
+         <description> Executive service room with a bedroom and a sitting room with dinnertable tennis </description>
+         <room_200> Non-smoking rooms</room_200>
+         <price>$360 per-night</price>
+         <description> Executive service room with a bedroom and a sitting room with dinnertable tennis but smoke proof </description>
+
+         <room_499> family room</room_499>
+         <price>$650 per-night</price>
+         <description> Executive service room with five bedroom and a sitting room with dinnertable tennis and bar and also smoke proof and noise proof</description>
+         <room_998> VIP rooms</room_998>
+         <price>$970 per-night</price>
+         <description> Having all the features needed and fully conservatives  </description>
+         <website>https://www.radissonhotels.com/en-us/hotels/radisson-blu-convention-kigali</website>
+        </rooms>
+
+     </hotel>
+
+
+
+
+    
+  
+
+
+
+
+     <hotelname>Four Points by Sheraton Kigali</hotelname>
+      <hotel category="4 star"> 
+        <rooms>
+         <room_101>Bridal suite</room_101>
+         <price>$199 per-night</price>
+         <description> Executive service room with a bedroom and a sitting room with dinner,table tennis </description>
+         <room_200> Non-smoking rooms</room_200>
+         <price>$300 per-night</price>
+         <description> Executive service room with a bedroom and a sitting room with dinner,table tennis but smoke proof </description>
+
+         <room_499> family room</room_499>
+         <price>$500 per-night</price>
+         <description> Executive service room with five bedroom and a sitting room with dinner,table tennis and bar and also smoke proof and noise proof</description>
+         <room_998> VIP rooms</room_998>
+         <price>$800 per-night</price>
+         <description> Having all the features needed and fully conservatives  </description>
+        </rooms>
+        
+
+    <hotelname>Lebanon Hotel Kigal</hotelname>
+      <hotel category="4 star"> </hotel>
+        <rooms>
+         <room_105>Lebanon Hotel Kigali</room_105>
+         <price>$150 per-night</price>
+         <description> Executive service room with a bedroom </description>
+         <room_2002> Non-smoking rooms</room_2002>
+         <price>365 per-night</price>
+         <description> Executive service room with a bedroom and a sitting room with dinner,table tennis but smoke proof </description>
+
+         <room_491> family room</room_491>
+         <price>$400 per-night</price>
+         <description> Executive service room with five bedroom and a sitting room with dinner,table tennis and bar and also smoke proof and noise proof</description>
+         <room_995> VIP rooms</room_995>
+         <price>$110 per-night</price>
+         <description> Having all the features needed and fully conservatives  </description>
+         <website>https://lebanonhotelkigali.com/</website>
+
+        </rooms> 
+      </hotel>
+
+
+    <hotelname>Highlands Suites Hotel</hotelname>
+      <hotel category="4 star"> 
+        <rooms>
+         <room_100>Bridal suite</room_100>
+         <price>$50 per-night</price>
+         <description> Executive service room with a bedroom and a sitting room with dinner,table tennis </description>
+         <room_1000> Non-smoking rooms</room_1000>
+         <price>$60 per-night</price>
+         <description> Executive service room with a bedroom and a sitting room with dinner,table tennis but smoke proof </description>
+
+         <room_899> family room</room_899>
+         <price>$65per-night</price>
+         <description> Executive service room with five bedroom and a sitting room with dinner,table tennis and bar and also smoke proof and noise proof</description>
+         <room_999> VIP rooms</room_999>
+         <price>$97 per-night</price>
+         <description> Having all the features needed and fully conservatives  </description>
+        
+        </rooms>
+
+       </hotel>
+
+
+    <hotelname>Perle Boutique Hotel</hotelname>
+      <hotel category="3star"> 
+        <rooms>
+         <room_101>Bridal suite</room_101>
+         <price>$199 per-night</price>
+         <description> Executive service room with a bedroom and a sitting room with dinner,table tennis </description>
+         <room_200> Non-smoking rooms</room_200>
+         <price>$300 per-night</price>
+         <description> Executive service room with a bedroom and a sitting room with dinner,table tennis but smoke proof </description>
+
+         <room_499> family room</room_499>
+         <price>$500 per-night</price>
+         <description> Executive service room with five bedroom and a sitting room with dinner,table tennis and bar and also smoke proof and noise proof</description>
+         <room_998> VIP rooms</room_998>
+         <price>$800 per-night</price>
+         <description> Having all the features needed and fully conservatives  </description>
+        </rooms>
+      </hotel>
+        
+        
+
+    <hotelname>Mythos Boutique Hotel</hotelname>
+      <hotel category="3 star"> 
+        <rooms>
+         <room_105> single suite</room_105>
+         <price>$65 per-night</price>
+         <description> service room with a bedroom and a sitting room </description>
+         <room_2002> consecutive rooms</room_2002>
+         <price>$75 per-night</price>
+         <description> consecutive service room with a bedroom and a sitting room with dinner table </description>
+
+         <room_491> family room</room_491>
+         <price>$100 per-night</price>
+         <description> Executive service room with five bedroom and a sitting room with dinner table and courtyard</description>
+         <room_995> VIP rooms</room_995>
+         <price>$110 per-night</price>
+         <description> Having all the features needed and fully conservatives for important personnel </description>
+         
+
+        </rooms> 
+      </hotel>
+
+    
+     <hotelname>Tea House B andB </hotelname>
+      <hotel category="2star"> 
+        <rooms>
+         <room_101>Single</room_101>
+         <price>$10 per-night</price>
+         <description> Single bed with tennis court </description>
+         <room_200> double</room_200>
+         <price>$25 per-night</price>
+         <description> double rooms with swimming pool </description>
+
+         <room_499> family room</room_499>
+         <price>$35</price>
+         <description> 3 rooms with  sitting room and courtyard</description>
+         <room_998> VIP rooms</room_998>
+         <price>$40</price>
+         <description> Having all the neccessary features for vip excutive   </description>
+        </rooms>
+      </hotel>
+        
+        
+
+    <hotelname> Accord Hotel</hotelname>
+      <hotel category="2 star"> 
+        <rooms>
+         <room_105>Single</room_105>
+         <price>$10 per-night</price>
+         <description> A self contained specious room</description>
+         <room_2002> family</room_2002>
+         <price> 55 per-night</price>
+         <description> Standard Executives </description>
+
+         <room_491> Double </room_491>
+         <price>$25 per-night</price>
+         <description> Two rooms</description>
+         <room_995> VIP</room_995>
+         <price>$45 per-night</price>
+         <description> Having all the luxury at low expenses for your family  </description>
+         
+        </rooms> 
+      </hotel>
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+    </typesofhotel>
